@@ -1,0 +1,14 @@
+/Users/enesuyan/Desktop/hackerRank-day2/bin/Debug/net8.0/hackerRank-day2
+/Users/enesuyan/Desktop/hackerRank-day2/bin/Debug/net8.0/hackerRank-day2.deps.json
+/Users/enesuyan/Desktop/hackerRank-day2/bin/Debug/net8.0/hackerRank-day2.runtimeconfig.json
+/Users/enesuyan/Desktop/hackerRank-day2/bin/Debug/net8.0/hackerRank-day2.dll
+/Users/enesuyan/Desktop/hackerRank-day2/bin/Debug/net8.0/hackerRank-day2.pdb
+/Users/enesuyan/Desktop/hackerRank-day2/obj/Debug/net8.0/hackerRank-day2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enesuyan/Desktop/hackerRank-day2/obj/Debug/net8.0/hackerRank-day2.AssemblyInfoInputs.cache
+/Users/enesuyan/Desktop/hackerRank-day2/obj/Debug/net8.0/hackerRank-day2.AssemblyInfo.cs
+/Users/enesuyan/Desktop/hackerRank-day2/obj/Debug/net8.0/hackerRank-day2.csproj.CoreCompileInputs.cache
+/Users/enesuyan/Desktop/hackerRank-day2/obj/Debug/net8.0/hackerRank-day2.dll
+/Users/enesuyan/Desktop/hackerRank-day2/obj/Debug/net8.0/refint/hackerRank-day2.dll
+/Users/enesuyan/Desktop/hackerRank-day2/obj/Debug/net8.0/hackerRank-day2.pdb
+/Users/enesuyan/Desktop/hackerRank-day2/obj/Debug/net8.0/hackerRank-day2.genruntimeconfig.cache
+/Users/enesuyan/Desktop/hackerRank-day2/obj/Debug/net8.0/ref/hackerRank-day2.dll
